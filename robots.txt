@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://c.cacagej.cn/sitemap.xml
